@@ -1,0 +1,21 @@
+#pane{
+    -fx-background-image: url("img/Font.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 850 500;
+    -fx-background-position: center center;
+}
+
+#titulo{
+    -fx-background-image: url("img/Title.jpg");
+    -fx-background-repeat: stretch;
+    -fx-border-radius: "15";
+    -fx-background-size: 300 100;
+    -fx-background-position: center center;
+}
+
+#ramas{
+    -fx-background-image: url("img/Grafic1.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 450 450;
+    -fx-background-position: center center;
+}
